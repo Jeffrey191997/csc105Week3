@@ -5,3 +5,19 @@ h1 {
 p {
   font-size: 30px;
 }
+
+.intro {
+  color: red;
+}
+
+.content {
+  background-color: rgb(212, 185, 185);
+}
+
+.content h1 {
+  color: cyan;
+}
+
+div h1 {
+  font-size: 380%;
+}
