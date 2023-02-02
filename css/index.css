@@ -12,6 +12,12 @@ p {
 
 .content {
   background-color: rgb(212, 185, 185);
+  padding: 20px;
+  margin: 20px;
+  border: 15px dashed red;
+  /* border-width: 15px;
+  border-style: double;
+  border-color: blue; */
 }
 
 .content h1 {
